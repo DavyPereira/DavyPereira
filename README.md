@@ -21,8 +21,7 @@ Sou estudante de Ciência de Dados na Universidade Federal do Ceará, com experi
 ## Informações Detalhadas
 
 - **Nome**: Davy Braga Melo Pereira
-- **Stack**: Python - C - C++ - MySQL - Git/GitHub - Pandas - NumPy
-- **Aprendendo**: Inteligência Artificial e Estatística
+- **Stack**: Python - C - C++ - MySQL - Git/GitHub - Pandas - NumPy - React - Node.js - Ruby
 - **Universidade**: Ciência de Dados - Universidade Federal do Ceará
 - **Localização**: Itapajé, Ceará
 

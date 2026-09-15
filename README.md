@@ -16,7 +16,7 @@ Não sei exatamente como você chegou aqui, mas vou tentar mostrar um pouco sobr
 
 ## Informações Resumidas
 
-Sou estudante de Ciência de Dados na Universidade Federal do Ceará, com experiência em desenvolvimento de software e análise de dados. Sou apaixonado por tecnologia, aprendizado contínuo e solução de problemas complexos. Tenho familiaridade com metodologias ágeis e versionamento de código.
+Sou estudante de Ciência de Dados na Universidade Federal do Ceará, mas atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela Anhanguera, com experiência em desenvolvimento de software e análise de dados. Sou apaixonado por tecnologia, aprendizado contínuo e solução de problemas complexos. Tenho familiaridade com metodologias ágeis e versionamento de código.
 
 ## Informações Detalhadas
 

@@ -58,8 +58,8 @@ Sou estudante de Ciência de Dados na Universidade Federal do Ceará, mas atualm
 ## ✉️ Contacts
 
 <p>
-<a href = mailto:davybraga60@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23990000?style=for-the-badge&logo=gmail&logoColor=white" height="36"></a>
-<a href="https://www.linkedin.com/in/DavyPereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"></a>
+<a href="mailto:davybraga60@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23990000?style=for-the-badge&logo=gmail&logoColor=white" height="36"></a>
+<a href="https://www.linkedin.com/in/davybraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"></a>
 </p>
 
 <a href="https://skillicons.dev">

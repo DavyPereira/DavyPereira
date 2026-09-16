@@ -14,11 +14,11 @@ Sou estudante de Ciência de Dados na Universidade Federal do Ceará, mas atualm
     alt="GitHub Stats"
     height="190"
     style="padding-right: 10px;"
-    src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=DavyPereirax&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
+    src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=DavyPereira&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
 /><img
     alt="Top Languages"
     height="190"
-    src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=DavyPereirax&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
+    src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=DavyPereira&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
 />
 
 ## 🛠️ Technologies

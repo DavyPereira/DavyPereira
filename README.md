@@ -1,6 +1,8 @@
-# Davy Braga
+<div align="center">
 
-**`Software Engineer`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=900&color=8839EF&center=true&vCenter=true&width=600&height=70&lines=Davy+Braga;Software+Engineer" alt="Davy Braga" />
+
+</div>
 
 Sou estudante de Ciência de Dados na Universidade Federal do Ceará, mas atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela Anhanguera, com experiência em desenvolvimento de software e análise de dados. Sou apaixonado por tecnologia, aprendizado contínuo e solução de problemas complexos. Tenho familiaridade com metodologias ágeis e versionamento de código.
 
@@ -65,3 +67,5 @@ Sou estudante de Ciência de Dados na Universidade Federal do Ceará, mas atualm
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,linux" />
 </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8839EF,100:0d1117&height=120&section=footer" />
